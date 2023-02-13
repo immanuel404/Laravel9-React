@@ -1,2 +1,4 @@
 # laravel-React
- Integration and performing crud operations with Laravel 9 and React.js
+Performing crud operations and api-integration with Laravel 9 and React.JS
+
+![](laravel_react.png)
